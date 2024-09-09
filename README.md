@@ -17,12 +17,12 @@ This project is a comprehensive dashboard built using HTML and CSS, designed to 
 
 ### Sections
 
-1- **First Page**: The landing page that provides an overview of the dashboard’s features and quick access to various sections.
-2- **ARTICLES**: some articles, every article has a link.
-3- **Gallery**: six pictures, about agency and services.
-4- **Features**: Highlights the key features of the agency.
-5- **TESTIMONIALS**: some information about our developers.
-6- **TEAM MEMBERS**: some information about our team members.
+1. **First Page**: The landing page that provides an overview of the dashboard’s features and quick access to various sections.
+2. **ARTICLES**: some articles, every article has a link.
+3. **Gallery**: six pictures, about agency and services.
+4. **Features**: Highlights the key features of the agency.
+5. **TESTIMONIALS**: some information about our developers.
+6. **TEAM MEMBERS**: some information about our team members.
 7. **Services**: Details the services offered by the agency.
 8. **EVENTS**: important events at the agency.
 9. **PRICING PLANS**: Helps users to create, view, and manage their plans (Basic, Advanced, Professional) and schedules.
